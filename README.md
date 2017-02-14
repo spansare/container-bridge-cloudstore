@@ -1,6 +1,6 @@
-# Node.js Starter Overview
+# Contianer - Bluemix Service Bridge application
 
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+The is a sample application which acts as a bridge between containers and Bluemix service for Cloudant and ClearDB MySQL service instances.
 
 ## Run the app locally
 
